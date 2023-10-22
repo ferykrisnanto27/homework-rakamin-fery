@@ -14,4 +14,4 @@ Ada 4 fitur yang saya cek pada kode berikut ini :
    a. Positive case >> checkout dengan keadaan ada item di keranjang
    b. Negative case >> checkout dengan keadaan tidak ada item di keranjang
 
-CATATAN : Dalam eksekusi automated testing ini, untuk negative test "klik checkout" menghasilkan hasil yang gagal, karena dari web saucedemo.com sendiri tidak menyediakan respons negative untuk kasus ini. Sehingga negative test untuk kasus ini tidak bisa diuji.
+CATATAN : Dalam eksekusi automated testing ini, untuk negative test "klik checkout" menghasilkan hasil yang gagal, karena dari web saucedemo.com sendiri tidak menyediakan respons negative untuk kasus ini. Sehingga negative test untuk kasus ini tidak bisa diuji / menghasilkan hasil yang "failed".
